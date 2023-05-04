@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-image: url("cal.jpg");
+    font-size: 20px;
+  }
+  
+   .button{
+     width: 35px;
+     height:40px;
+    padding: 50;
+    margin:0 5px;
+     border:1px solid black;
+     border-radius: 9px;
+     cursor:pointer ;
+  } 
+  .row{ 
+    margin: 8px 0; 
+   } 
+  .row input{
+    font-size: 15px;
+    padding: 10px 0px;
+    border:3px solid black;
+  }
+  .title{
+    font-size: 20px;
+  }
